@@ -1,0 +1,15 @@
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.exe
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.deps.json
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.dll
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\ref\2.4UzduotisKitaVersija.dll
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\bin\Debug\net5.0\2.4UzduotisKitaVersija.pdb
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.dll
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\ref\2.4UzduotisKitaVersija.dll
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.pdb
+C:\Users\chemi\Desktop\C sharpux\2.4UzduotisKitaVersija\2.4UzduotisKitaVersija\obj\Debug\net5.0\2.4UzduotisKitaVersija.genruntimeconfig.cache

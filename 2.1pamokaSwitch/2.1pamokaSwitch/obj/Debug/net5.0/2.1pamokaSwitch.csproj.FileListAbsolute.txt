@@ -1,0 +1,16 @@
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.exe
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.deps.json
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.dll
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\ref\2.1pamokaSwitch.dll
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\bin\Debug\net5.0\2.1pamokaSwitch.pdb
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.csproj.AssemblyReference.cache
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.dll
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\ref\2.1pamokaSwitch.dll
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.pdb
+C:\Users\chemi\Desktop\C sharpux\2.1pamokaSwitch\2.1pamokaSwitch\obj\Debug\net5.0\2.1pamokaSwitch.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.exe
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.deps.json
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.dll
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\ref\Swich mokymas.dll
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\bin\Debug\net5.0\Swich mokymas.pdb
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.dll
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\ref\Swich mokymas.dll
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.pdb
+C:\Users\chemi\Desktop\C sharpux\Swich mokymas\Swich mokymas\obj\Debug\net5.0\Swich mokymas.genruntimeconfig.cache

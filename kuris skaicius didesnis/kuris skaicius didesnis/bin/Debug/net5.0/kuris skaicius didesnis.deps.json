@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "kuris skaicius didesnis/1.0.0": {
+        "runtime": {
+          "kuris skaicius didesnis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kuris skaicius didesnis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

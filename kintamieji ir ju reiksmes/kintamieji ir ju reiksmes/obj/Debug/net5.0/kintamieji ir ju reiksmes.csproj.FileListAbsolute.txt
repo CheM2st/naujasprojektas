@@ -1,0 +1,15 @@
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.exe
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.deps.json
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.dll
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\ref\kintamieji ir ju reiksmes.dll
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\bin\Debug\net5.0\kintamieji ir ju reiksmes.pdb
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.dll
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\ref\kintamieji ir ju reiksmes.dll
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.pdb
+C:\Users\chemi\Desktop\C sharpux\kintamieji ir ju reiksmes\kintamieji ir ju reiksmes\obj\Debug\net5.0\kintamieji ir ju reiksmes.genruntimeconfig.cache

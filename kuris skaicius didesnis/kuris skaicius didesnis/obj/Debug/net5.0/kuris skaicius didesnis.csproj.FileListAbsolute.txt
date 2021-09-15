@@ -1,0 +1,16 @@
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.csproj.AssemblyReference.cache
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.exe
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.deps.json
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.dll
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\ref\kuris skaicius didesnis.dll
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\bin\Debug\net5.0\kuris skaicius didesnis.pdb
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.dll
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\ref\kuris skaicius didesnis.dll
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.pdb
+C:\Users\chemi\Desktop\C sharpux\kuris skaicius didesnis\kuris skaicius didesnis\obj\Debug\net5.0\kuris skaicius didesnis.genruntimeconfig.cache

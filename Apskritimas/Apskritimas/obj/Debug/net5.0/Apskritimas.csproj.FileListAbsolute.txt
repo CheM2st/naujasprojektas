@@ -1,0 +1,16 @@
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.exe
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.deps.json
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.dll
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\ref\Apskritimas.dll
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\bin\Debug\net5.0\Apskritimas.pdb
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.csproj.AssemblyReference.cache
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.dll
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\ref\Apskritimas.dll
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.pdb
+C:\Users\chemi\Desktop\C sharpux\Apskritimas\Apskritimas\obj\Debug\net5.0\Apskritimas.genruntimeconfig.cache

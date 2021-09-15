@@ -1,0 +1,15 @@
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.AssemblyInfo.cs
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.exe
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.deps.json
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.runtimeconfig.json
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.runtimeconfig.dev.json
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.dll
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\ref\2.4uzduotis.dll
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\bin\Debug\net5.0\2.4uzduotis.pdb
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.dll
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\ref\2.4uzduotis.dll
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.pdb
+C:\Users\chemi\Desktop\C sharpux\2.4uzduotis\2.4uzduotis\obj\Debug\net5.0\2.4uzduotis.genruntimeconfig.cache
